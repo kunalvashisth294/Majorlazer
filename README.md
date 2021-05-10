@@ -1,3 +1,2 @@
 # Majorlazer
-All projects
-This is my learnings
+okayim learning 
